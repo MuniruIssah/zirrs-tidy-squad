@@ -17,4 +17,4 @@ export default function IndexPage() {
     )
 }
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => <title>Zirr's Tidy Squad</title>
