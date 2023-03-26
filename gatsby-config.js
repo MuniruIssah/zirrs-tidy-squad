@@ -6,5 +6,5 @@ module.exports = {
     title: `Zirrs Tidy Squad`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss',],
 }
