@@ -9,7 +9,7 @@ const About = () => {
                         <img src={background} className={'w-4/5'} alt={'alternative'}/>
                     </div>
                     <div className={'text-center lg:text-left flex flex-col space-y-3 h-full justify-center'}>
-                        <h6 className={'uppercase text-gray-700 text-lg md:text-xl font-bold'}>About Us</h6>
+                        <h6 className={'uppercase text-gray-700 font-bold'}>About Us</h6>
                         <p className={'font-light text-gray-600 md:text-lg'}>
                             At Zirr’s Tidy Squad, we understand that a clean and tidy space is essential for your wellbeing and productivity.
                             We take pride in providing thorough and efficient cleaning services that exceed our clients' expectations.
