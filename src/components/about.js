@@ -3,7 +3,7 @@ import background from '../images/mancleaner.avif'
 const About = () => {
     return (
         <div id={'about'} className={'flex items-center'}>
-            <div className={'max-w-7xl px-5 w-full mx-auto min-h-[40vh] flex flex-col space-y-14 items-center justify-center text-center py-10'}>
+            <div className={'max-w-7xl px-5 w-full mx-auto py-10 flex flex-col space-y-14 items-center justify-center text-center py-10'}>
                 <div className={'grid lg:grid-cols-2 h-full'}>
                     <div className={'hidden lg:flex bg-contain bg-no-repeat bg-top'}>
                         <img src={background} className={'w-4/5'} alt={'alternative'}/>
